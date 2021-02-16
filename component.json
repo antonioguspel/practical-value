@@ -1,0 +1,15 @@
+{
+	"dependencies" : {},
+	"description"  : "practical work around for existential getting/setting values in nested Objects",
+	"development"  : {
+		"chaijs/chai"       : "latest",
+		"visionmedia/mocha" : "latest"
+	},
+	"keywords"     : ["bless", "coerce", "value"],
+	"license"      : "MIT",
+	"main"         : "index.js",
+	"name"         : "practical-value",
+	"repo"         : "muigui/practical-value",
+	"scripts"      : ["index.js"],
+	"version"      : "0.0.4"
+}
